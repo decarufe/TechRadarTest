@@ -1,6 +1,20 @@
 name,ring,quadrant,isNew,description
-David,Adopt,Tools,FALSE,<p>David est une ressource indispensable à l'équipe</p>
-Stéphane,Assess,Techniques,FALSE,<p>Bof</p>
-Patrick,Hold,Plateforms,FALSE,<p>Je ne le connais pas assez</p>
-Louis,Trial,"languages-and-frameworks",TRUE,<p>Le petit nouveau</p>
-Eric,Trial,Techniques,TRUE,<p>Pas sur</p>
+.NET 6.0,1.Promouvoir,Outils,FALSE,
+C# 10,1.Promouvoir,Outils,FALSE,
+Infrastructure As Code,1.Promouvoir,Techniques,FALSE,
+CQRS - Query Pattern,1.Promouvoir,Techniques,FALSE,
+MediatR,1.Promouvoir,Tools,FALSE,<em>MediatR</em> is mature enough to use it for our CQRS implementation
+DataDog,1.Promouvoir,Tools,FALSE,
+CQRS,2.Garder,Concept,FALSE,<p>Le petit nouveau</p>
+Event Sourcing,2.Garder,Concept,FALSE,<p>Pas sur</p>
+Resharper,2.Garder,Outils,FALSE,
+CQRS - Command Pattern,2.Garder,Techniques,FALSE,
+Microservices,2.Garder,Techniques,FALSE,
+Mongo,2.Garder,Tools,FALSE,<p>Bof</p>
+Visual Studio 2022,2.Garder,Tools,FALSE,
+Rider,2.Garder,Tools,FALSE,
+Azure Functions,3.Éviter,Outils,FALSE,
+Event Store DB,3.Éviter,Outils,FALSE,
+Akka .net,3.Éviter,Outils,FALSE,
+Event source catchup,3.Éviter,Techniques,FALSE,
+SQL Server Database,4.Unclassified,Outils,FALSE,<p>Je ne le connais pas assez</p>
